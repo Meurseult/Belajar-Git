@@ -1,1 +1,2 @@
-Mencoba git remote dari local
+Mencoba git remote dari local. Yay! Berhasil, aku seneng banget loh.
+Ngomong-ngomong aku belum tau cara ganti alias agar permanen disini.
