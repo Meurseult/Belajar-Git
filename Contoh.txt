@@ -1,2 +1,4 @@
-Ini adalah untuk pertama kalinya aku mencoba git remote
+Ini adalah untuk pertama kalinya aku mencoba git remote 
 Semoga dengan mempelajari ini aku mempunyai penyimpanan kode gratis di GitHub hahaaha
+Aku ingin berak segera disini. Mungkin aku tidak sempat untuk belajar bagaimana cara konversi antar bilangan deci dan
+octa
